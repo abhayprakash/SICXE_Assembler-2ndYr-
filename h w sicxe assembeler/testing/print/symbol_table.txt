@@ -1,0 +1,8 @@
+
+Symtable generated:
+===================
+ALPHA	0019
+BETA	001c
+GAMMA	001f
+DELTA	0022
+INCR	0025

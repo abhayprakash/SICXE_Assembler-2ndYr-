@@ -1,0 +1,4 @@
+
+Symtable generated:
+===================
+RUN	1003
